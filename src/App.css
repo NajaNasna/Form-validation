@@ -1,0 +1,35 @@
+.container{
+  margin-top: 80px;
+  width: 70%;
+  height: 600px;
+  border: 1px solid red;
+  border-radius: 8px;
+  padding-top: 28px;
+}
+img{
+  width: 100%;
+  height: 600px;
+  margin-top: -28px;
+  margin-left: -12px;
+  border-radius: 4px;
+  opacity: 0.6;
+}
+.error-text{
+  color: red;
+  font-size: 12px;
+  margin-top: -10px;
+}
+.left{
+  height: 377px;
+}
+input{
+  margin-bottom: 23px;
+}
+h2{
+  text-align: center;
+  color: rgb(4, 129, 207);
+  font-weight: bolder;
+  margin-bottom: -60px;
+  margin-top: 26px;
+}
+
